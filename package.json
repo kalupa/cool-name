@@ -1,0 +1,11 @@
+{
+  "name": "cool-name",
+  "version": "1.0.0",
+  "description": "Generate a good name for a github project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
